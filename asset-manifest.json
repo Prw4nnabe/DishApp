@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dishapp/static/css/main.176b9257.css",
+    "main.js": "/dishapp/static/js/main.484ecf9b.js",
+    "static/media/bg.jpg": "/dishapp/static/media/bg.4b7e6eeea5ae11bb42dd.jpg",
+    "index.html": "/dishapp/index.html",
+    "main.176b9257.css.map": "/dishapp/static/css/main.176b9257.css.map",
+    "main.484ecf9b.js.map": "/dishapp/static/js/main.484ecf9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.176b9257.css",
+    "static/js/main.484ecf9b.js"
+  ]
+}
